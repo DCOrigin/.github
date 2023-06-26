@@ -10,13 +10,7 @@ Skid Rush's inactive community, pay-to-win orientation, the language barrier and
 
 ## Mission
 
-As a result, we at Origin are developing an emulator for the latest Skid Rush client from scratch, which we try to translate from Korean to English as far as possible.
-Although the emulator aims to mimic the behavior of the original game as closely as possible, we still plan to change certain things.
-
-Only to name a few:
-* We will remove ST, BT and Mini Cars completely and adapt the car sizes such that all cars roughly have the same size
-* GCoins can be bought with Mito and will be given out as reward for supporting the server on Patreon
-* Rewards of certain game modes will vary from the original rewards (e.g. Rush Time, Under City, Neo City, etc.)
-* New content will be added (e.g. to the Drift Shop)
-
-Note that those adaptions are still subject to change in the future.
+We are developing a Drift City emulator that will be compatible with a recent version of the Skid Rush client.
+Our ultimate goal is to open our own private Drift City server and release the game to the public.
+One of our main challenges is to find a compromise between replicating the original game as we have come to love it and creating a new and exciting experience for the Drift City community.
+We are working on this with a skilled and diverse team of developers, content creators, and players who are dedicated to creating the best possible game experience for you!
