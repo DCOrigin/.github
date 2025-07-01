@@ -1,16 +1,15 @@
 # Drift City Origin
 
-_Drift City Origin_ is an emulator for the latest Skid Rush Client of the MMORG Drift City.
+*Drift City Origin* is a **non-commercial, fan-made emulator** for the latest Skid Rush client of the MMORPG *Drift City*.
 
 ## Background
 
-Drift City Origin was launched as a hobby project in November 2019 with the intention to bring the _Stage 3_ version (post Neo City era) of the game back to the European and English speaking Drift City community, as the only active official servers at that time were based in Korea (_Skid Rush_) and Japan (_Evolution_).
-Since Drift City Evolution shut down in May 2021, the only remaining official server is the Korean server.
-Skid Rush's inactive community, pay-to-win orientation, the language barrier and, last but not least, the necessity of a Korean ID to create an account prevent a large part of the English speaking community from playing and emphasize the need for an English speaking server.
+*Drift City Origin* began as a **personal hobby project** in November 2019, created purely out of passion for the game. Its aim is to revive the *Stage 3* version (post-Neo City era) of *Drift City* for the European and English-speaking community. At the time, the only official servers still active were based in Korea (*Skid Rush*) and Japan (*Evolution*).
+
+Since the shutdown of *Drift City Evolution* in May 2021, the Korean server remains the sole official version. Unfortunately, factors like a largely inactive player base, pay-to-win mechanics, a significant language barrier, and the requirement of a Korean ID for account creation have made access difficult for international fans. This highlights the value of an English-speaking, community-led revival of the game.
 
 ## Mission
 
-We are developing a Drift City emulator that will be compatible with a recent version of the Skid Rush client.
-Our ultimate goal is to open our own private Drift City server and release the game to the public.
-One of our main challenges is to find a compromise between replicating the original game as we have come to love it and creating a new and exciting experience for the Drift City community.
-We are working on this with a skilled and diverse team of developers, content creators, and players who are dedicated to creating the best possible game experience for you!
+We are building a **completely fan-driven emulator**, compatible with a more recent version of the *Skid Rush* client. Our goal is to eventually launch a **free, private server** to make the game accessible again for the community.
+
+This is **strictly a passion project**, with **no commercial intent**. Our team—made up of volunteer developers, content creators, and long-time players—is committed to capturing the spirit of the original game while introducing fresh experiences for fans, old and new.
